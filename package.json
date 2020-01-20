@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/deancouch/scratch/issues"
   },
-  "homepage": "https://github.com/deancouch/scratch#readme"
+  "homepage": "https://github.com/deancouch/scratch#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
